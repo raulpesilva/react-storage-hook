@@ -12,7 +12,7 @@ import useStorage, { StorageProvider } from "useStorage";
 const App = () => {
   return (
     <StorageProvider>
-      <div />
+      <SeuComponente />
     </StorageProvider>
   );
 };
